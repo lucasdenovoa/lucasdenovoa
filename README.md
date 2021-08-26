@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi! My name is Lucas de Nóvoa 
 
-<!--
-**lucasdenovoa/lucasdenovoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+<a href="https://github.com/lucasdenovoa">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdenovoa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdenovoa&layout=compact&langs_count=16&theme=blue-green" />
+
+</div>
+
+
+- 🔭 I’m currently working on Lasse - Telecommunications, Automation and Electronics Research and Development Center
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on telecom OpenSource projects
+- ⚡ Fun fact: The first oranges weren’t orange :p
+
